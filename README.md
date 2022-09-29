@@ -93,9 +93,9 @@ Para rodar o *linter* localmente no projeto, execute o comando abaixo:
 
 ## Durante o desenvolvimento
 
-* Faça `commits` **bem estruturados** das alterações que você fizer no código regularmente
+* [ ] Faça `commits` **bem estruturados** das alterações que você fizer no código regularmente
 
-* Lembre-se de sempre após um (ou alguns) `commits` atualizar o repositório remoto
+* [ ] Lembre-se de sempre após um (ou alguns) `commits` atualizar o repositório remoto
 
 ---
 
