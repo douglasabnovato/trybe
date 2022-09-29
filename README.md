@@ -57,12 +57,19 @@ Neste projeto você vai desenvolver uma carteira de controle de gastos com conve
 
 ### Atenção!
 
-O projeto já contém testes e linters configurados. É essencial que **você obtenha 100% de aprovação no projeto, incluindo requisitos bônus, sem problemas de linter**. Beleza?! Obter aprovação nos testes e no linter é condição essencial para a análise do projeto, **mas é importante que a qualidade do seu código vá além disso!** Observaremos legibilidade do código, estrutura da aplicação, domínio de bons conceitos da linguagem, domínio de CSS. Utilize o projeto para nos mostrar o seu melhor!
+O projeto já contém testes e linters configurados. É essencial que **você obtenha 100% de aprovação no projeto, incluindo requisitos bônus, sem problemas de linter**. Beleza?! 
+
+Obter aprovação nos testes e no linter é condição essencial para a análise do projeto, **mas é importante que a qualidade do seu código vá além disso!** 
+
+Observaremos legibilidade do código, estrutura da aplicação, domínio de bons conceitos da linguagem, domínio de CSS. Utilize o projeto para nos mostrar o seu melhor!
 
 ### Linter
 
-Para garantir a qualidade do código, vamos utilizar neste projeto o linter ESLint. Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível e de fácil manutenção! Para rodar o *linter* localmente no projeto, execute o comando abaixo:
+Para garantir a qualidade do código, vamos utilizar neste projeto o linter ESLint. 
 
+Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível e de fácil manutenção! 
+
+Para rodar o *linter* localmente no projeto, execute o comando abaixo:
 - `npm run lint`
 - `npm run lint:styles`
 
