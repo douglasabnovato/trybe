@@ -1,0 +1,44 @@
+.container{
+  width: 20vw;
+  border: 1px solid #04AA6D;
+  border-radius: 5px;
+  padding: 25px;
+  margin: 50px auto 0;
+}
+
+.image-logo {
+  width: 75%;
+  margin: 0 auto 35px;
+}
+
+.form-field-email, .form-field-password{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 3px 0;
+  display: inline-block;
+  border: 1px solid #04AA6D;
+  box-sizing: border-box;
+}
+
+.form-error{
+  color: red;
+}
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 13px 0 8px;
+  border: none;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.2;
+  pointer-events: none;
+}
