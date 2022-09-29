@@ -44,11 +44,11 @@ Aqui você vai encontrar os detalhes de como desenvolver seu projeto a partir de
 ## O que deverá ser desenvolvido
 
 Neste projeto você vai desenvolver uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação uma pessoa deverá ser capaz de:
-  - Adicionar, remover e editar um gasto;
-  - Visualizar uma tabelas com seus gastos;
-  - Visualizar o total de gastos convertidos para uma moeda de escolha;
+  - [ ] Adicionar, remover e editar um gasto;
+  - [ ] Visualizar uma tabelas com seus gastos;
+  - [ ] Visualizar o total de gastos convertidos para uma moeda de escolha;
 
-Para entregar o seu projeto você deverá criar um Pull Request neste repositório.
+- [ ] Para entregar o seu projeto você deverá criar um **Pull Request** neste repositório.
 
 ## Desenvolvimento
 
