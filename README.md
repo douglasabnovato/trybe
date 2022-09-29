@@ -51,7 +51,7 @@ Neste projeto você vai desenvolver uma carteira de controle de gastos com conve
 
 ## Desenvolvimento
 
-[ ] Você deve desenvolver uma aplicação em React que use Redux como ferramenta de manipulação de estado. Através dessa aplicação, será possível realizar as operações básicas de criação e manipulação de um estado de redux.
+- [ ] Você deve desenvolver uma aplicação em React que use Redux como ferramenta de manipulação de estado. Através dessa aplicação, será possível realizar as operações básicas de criação e manipulação de um estado de redux.
 
 ## Avaliação automática
 
