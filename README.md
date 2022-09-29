@@ -7,16 +7,16 @@ Aqui você vai encontrar os detalhes de como desenvolver seu projeto a partir de
 
 # Sumário
 
-- [Entregáveis](#entregáveis)
+- 1. [Entregáveis](#entregáveis)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
   - [Avaliação Automática](#avaliacao-automatica)
-- [Instruções de início](#instruções-de-inicio)
-- [Como desenvolver](#como-desenvolver)
+- 2. [Instruções de início](#instruções-de-inicio)
+- 3. [Como desenvolver](#como-desenvolver)
   - [Configurando o Redux DevTools](#configurando-o-redux-devtools)
   - [Documentação da API de Cotações de Moedas](#documentação-da-api-de-cotações-de-moedas)
   - [Execução de testes unitários](#execução-de-testes-unitários)
-- [Requisitos do projeto](#requisitos-do-projeto)
+- 4. [Requisitos do projeto](#requisitos-do-projeto)
   - [Lista de requisitos](#lista-de-requisitos)
     - [Página de Login](#página-de-login)
       - [1. Crie uma página inicial de login com os seguintes campos e características:](#1-crie-uma-página-inicial-de-login-com-os-seguintes-campos-e-características)
