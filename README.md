@@ -216,11 +216,11 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
 #### 1. Crie uma página inicial de login com os seguintes campos e características:
 
-  - [x] A rota para esta página deve ser ‘/’.
+  - [ ] A rota para esta página deve ser ‘/’.
 
-  - [x] Você deve criar um local para que a pessoa usuária insira seu email e senha. Utilize o atributo `data-testid="email-input"` para o email e `data-testid="password-input"` para a senha.
+  - [ ] Você deve criar um local para que a pessoa usuária insira seu email e senha. Utilize o atributo `data-testid="email-input"` para o email e `data-testid="password-input"` para a senha.
 
-  - [x] Crie um botão com o texto ‘Entrar’.
+  - [ ] Crie um botão com o texto ‘Entrar’.
 
   O que será testado:
   ```
@@ -229,16 +229,16 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
   - Existe um botão com o texto "Entrar"
   ```
 
-- [x] Observações da minha resolução:
+- **Observações da minha resolução**
   * Estilizada essa página conforme o layout do gif exibido acima.
   * A estratégia de elemento com o nome da pasta e com arquivos `index.js` e `index.css`.
   * Construído o formulário com Formik com campos e mensagens de erro de exibição.
 
 #### 2. Realize as seguintes verificações nos campos de email, senha e botão:
 
-  - [x] O email está no formato válido, como 'alguem@alguem.com'.
+  - [ ] O email está no formato válido, como 'alguem@alguem.com'.
 
-  - [x] A senha possui 6 ou mais caracteres.
+  - [ ] A senha possui 6 ou mais caracteres.
 
   * Salve o email no estado da aplicação, com a chave ***email***, assim que a pessoa usuária logar.
 
@@ -251,7 +251,7 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
   - O botão de "Entrar" está habilitado quando um email e uma senha válidos são passados
   ```
 
-- [x] Observações da minha resolução:
+- **Observações da minha resolução**
   * As validações foram realizadas com Yup.
 
 #### 3. Utilize o Redux para salvar no estado global as informações da pessoa logada
