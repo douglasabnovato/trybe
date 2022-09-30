@@ -123,9 +123,9 @@ Você pode adicionar novos campos ao seu estado global, mas essa estrutura bási
 
 ## Configurando o Redux DevTools
 
-Pra usarmos o Redux DevTools com o Redux-Thunk, você pode usar uma biblioteca chamada `composeWithDevTools`. Ela já está no package.json, a única coisa que você vai precisar fazer é configurar a sua store, por exemplo:
+- [ ] Para usarmos o Redux DevTools com o Redux-Thunk, você pode usar uma biblioteca chamada `composeWithDevTools`. Ela já está no package.json, a única coisa que você vai precisar fazer é configurar a sua store, por exemplo:
 
-```
+````javascript
 import { createStore, applyMiddleware } from 'redux';
 import { composeWithDevTools } from 'redux-devtools-extension';
 import thunk from 'redux-thunk';
@@ -139,7 +139,7 @@ const store = createStore(
 );
 
 export default store;
-```
+````
 
 ---
 
