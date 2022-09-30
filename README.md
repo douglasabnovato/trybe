@@ -212,7 +212,7 @@ npm test
 
 Crie uma página para que a pessoa usuária se identifique, com email e senha. Esta página deve ser a página inicial de seu aplicativo.
 
-  ![image](login.gif)
+  ![image login](./.github/template/login.gif)
 
 #### 1. Crie uma página inicial de login com os seguintes campos e características:
 
@@ -276,7 +276,7 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 - [ ] Que traga a despesa total em uma moeda só.
 - [ ] Esta página deve ser renderizada por um componente chamado ***Wallet***.
 
-  ![image](carteira.gif)
+  ![image carteira](./.github/template/carteira.gif)
 ---
 ### Configurando sua página
 
@@ -519,7 +519,7 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
 #### 10. Crie um botão para deletar uma despesa da tabela contendo as seguintes características:
 
-   ![image](btnExcluir.gif)
+   ![image btnExcluir](./.github/template/btnExcluir.gif)
 
   * [ ] O botão deve estar na linha da tabela e deve possuir `data-testid="delete-btn"`.
 
@@ -535,7 +535,7 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
 #### 11. Crie um botão para editar uma despesa da tabela contendo as seguintes características:
 
-   ![image](btnEditar.gif)
+   ![image btnEditar](./.github/template/btnEditar.gif)
 
   * [ ] O botão deve estar dentro da linha da tabela e deve possuir `data-testid="edit-btn"`
 
@@ -555,5 +555,16 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 ### Detalhes
 
 - Projeto tem origem no repositório [betrybe](https://github.com/betrybe/douglasnovato-test)
+---
+
+#### 📅 Telas Resultado da resolução das tarefas
+
+- Página de Login
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="versão 1 do projeto" title="#receita" src="./.github/telas/tela-1.jpg">
+</p>
+
+
 
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
