@@ -272,7 +272,9 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 ---
 ### Página da Carteira
 
-Crie uma página para gerenciar a carteira de gastos em diversas moedas, e que traga a despesa total em uma moeda só. Esta página deve ser renderizada por um componente chamado ***Wallet***.
+- [ ] Crie uma página para gerenciar a carteira de gastos em diversas moedas.
+- [ ] Que traga a despesa total em uma moeda só.
+- [ ] Esta página deve ser renderizada por um componente chamado ***Wallet***.
 
   ![image](carteira.gif)
 ---
@@ -280,11 +282,11 @@ Crie uma página para gerenciar a carteira de gastos em diversas moedas, e que t
 
 #### 4. Crie uma página para sua carteira com as seguintes características:
 
-  * A rota para esta página deve ser `/carteira`
+  * [ ] A rota para esta página deve ser `/carteira`
 
-  * O componente deve se chamar Wallet e estar localizado na pasta `src/pages` no arquivo `Wallet.js`
+  * [ ] O componente deve se chamar Wallet e estar localizado na pasta `src/pages` no arquivo `Wallet.js`
 
-  O que será testado:
+- **O que será testado**
   ```
   - A rota para esta página deve ser "/carteira"
   - O componente deve se chamar Wallet e estar localizado na pasta "src/pages"
@@ -294,25 +296,25 @@ Crie uma página para gerenciar a carteira de gastos em diversas moedas, e que t
 
 #### 5. Crie um header para a página de carteira contendo as seguintes características:
 
-  * Um elemento que exiba o email da pessoa usuária que fez login.
+  * [ ] Um elemento que exiba o email da pessoa usuária que fez login.
 
-    * Adicione o atributo `data-testid="email-field"`.
+    * [ ] Adicione o atributo `data-testid="email-field"`.
 
   ```
-  Dica: você deve pegar o email do estado global da aplicação (no Redux)
+  ***Dica: você deve pegar o email do estado global da aplicação (no Redux)***
   ```
 
-  * Um campo com a despesa total gerada pela lista de gastos.
+  * [ ] Um campo com a despesa total gerada pela lista de gastos.
 
-    * Adicione o atributo `data-testid="total-field"`.
+    * [ ] Adicione o atributo `data-testid="total-field"`.
 
-    * Inicialmente esse campo deve exibir o valor `0`
+    * [ ] Inicialmente esse campo deve exibir o valor `0`
 
-  * Um campo que mostre qual câmbio está sendo utilizado, que será neste caso será 'BRL'.
+  * [ ] Um campo que mostre qual câmbio está sendo utilizado, que será neste caso será 'BRL'.
 
-    * Adicione o atributo `data-testid="header-currency-field"`.
+    * [ ] Adicione o atributo `data-testid="header-currency-field"`.
 
-  O que será testado:
+  **O que será testado**
   ```
   - Um elemento que exiba o email do usuário que fez login.
   - Crie um campo com a despesa total gerada pela lista de gastos.
