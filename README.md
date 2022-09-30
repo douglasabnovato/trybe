@@ -392,6 +392,7 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
       <details>
       <summary>Clique para expandir.</summary>
       <p>
+
         ```json
           expenses: [{
             "id": 0,
@@ -488,6 +489,7 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
             }
           }]
         ```
+
         </p>
       </details>
 ---
