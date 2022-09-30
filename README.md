@@ -57,17 +57,17 @@ Neste projeto você vai desenvolver uma carteira de controle de gastos com conve
 
 ### Atenção!
 
-O projeto já contém testes e linters configurados. É essencial que **você obtenha 100% de aprovação no projeto, incluindo requisitos bônus, sem problemas de linter**. Beleza?! 
+O projeto já contém testes e linters configurados. É essencial que **você obtenha 100% de aprovação no projeto, incluindo requisitos bônus, sem problemas de linter**. Beleza?!
 
-- [ ] Obter aprovação nos testes e no linter é condição essencial para a análise do projeto, **mas é importante que a qualidade do seu código vá além disso!** 
+- [ ] Obter aprovação nos testes e no linter é condição essencial para a análise do projeto, **mas é importante que a qualidade do seu código vá além disso!**
 
 Observaremos legibilidade do código, estrutura da aplicação, domínio de bons conceitos da linguagem, domínio de CSS. Utilize o projeto para nos mostrar o seu melhor!
 
 ### Linter
 
-Para garantir a qualidade do código, vamos utilizar neste projeto o linter ESLint. 
+Para garantir a qualidade do código, vamos utilizar neste projeto o linter ESLint.
 
-- [ ] Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível e de fácil manutenção! 
+- [ ] Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível e de fácil manutenção!
 
 Para rodar o *linter* localmente no projeto, execute o comando abaixo:
 - `npm run lint`
@@ -101,7 +101,7 @@ Para rodar o *linter* localmente no projeto, execute o comando abaixo:
 
 # Como desenvolver
 
-Em função da forma como os testes automatizados foram construídos, nessa aplicação você deverá **obrigatoriamente** utilizar o seguinte formato do estado global:
+- [ ] Em função da forma como os testes automatizados foram construídos, nessa aplicação você deverá **obrigatoriamente** utilizar o seguinte formato do estado global:
 
 ```
 {
@@ -117,7 +117,7 @@ Em função da forma como os testes automatizados foram construídos, nessa apli
 
 Você pode adicionar novos campos ao seu estado global, mas essa estrutura básica deve se manter. Por exemplo, você pode adicionar uma propriedade `isFetching` no seu estado. Mas você **não** pode salvar as despesas em uma chave diferente de `wallet.expenses`.
 
-Outra coisa importante: devido a estrutura que o avaliador utiliza para realizar os testes, é **necessário** que o seu `<Provider />` e o seu `<BrowserRouter />` estejam no arquivo `index.js` e **não** no `<App />`.
+- [ ] Outra coisa importante: devido a estrutura que o avaliador utiliza para realizar os testes, é **necessário** que o seu `<Provider />` e o seu `<BrowserRouter />` estejam no arquivo `index.js` e **não** no `<App />`.
 
 ---
 
