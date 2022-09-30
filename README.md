@@ -537,21 +537,23 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
    ![image](btnEditar.gif)
 
-  * O botão deve estar dentro da linha da tabela e deve possuir `data-testid="edit-btn"`
+  * [ ] O botão deve estar dentro da linha da tabela e deve possuir `data-testid="edit-btn"`
 
-  * Ao ser clicado, o botão habilita um formulário para editar a linha da tabela. Ao clicar em "Editar despesa" ela é atualizada, alterando o estado global.
+  * [ ] Ao ser clicado, o botão habilita um formulário para editar a linha da tabela. Ao clicar em "Editar despesa" ela é atualizada, alterando o estado global.
 
-    * O formulário deverá ter os mesmos `data-testid` do formulário de adicionar despesa. Você pode reaproveitá-lo.
+    * [ ] O formulário deverá ter os mesmos `data-testid` do formulário de adicionar despesa. Você pode reaproveitá-lo.
 
-    * O botão para submeter a despesa para edição deverá conter **exatamente** o texto "Editar despesa"
+    * [ ] O botão para submeter a despesa para edição deverá conter **exatamente** o texto "Editar despesa"
 
-    **Atenção**: o câmbio utilizado na edição deve ser o mesmo do cálculo feito na adição do gasto.
+    *  [ ] **Atenção**: o câmbio utilizado na edição deve ser o mesmo do cálculo feito na adição do gasto.
 
-  O que será testado:
+  **O que será testado**
   ```
-  - O botão deve estar dentro do último item da linha da tabela e deve possuir `data-testid="edit-btn"
-  - Ao ser clicado, o botão habilita um formulário para editar a linha da tabela. Ao clicar em "Editar despesa" ela é atualizada, alterando o estado global
+  - [ ] O botão deve estar dentro do último item da linha da tabela e deve possuir `data-testid="edit-btn"
+  - [ ] Ao ser clicado, o botão habilita um formulário para editar a linha da tabela. Ao clicar em "Editar despesa" ela é atualizada, alterando o estado global
   ```
 ### Detalhes
 
 - Projeto tem origem no repositório [betrybe](https://github.com/betrybe/douglasnovato-test)
+
+Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
