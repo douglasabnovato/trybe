@@ -325,44 +325,44 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
  **Dica:** atente-se ao [formato sugerido pelo React](https://pt-br.reactjs.org/docs/forms.html) para criar formulários.
 
-  ```
+  ````html
   <form>
     <label>
       Nome:
       <input type="text" name="name" />
     </label>
   </form>
-  ```
+  ````
 
 #### 6. Desenvolva um formulário para adicionar uma despesa contendo as seguintes características:
 
-  * Um campo para adicionar valor da despesa.
+  * [ ] Um campo para adicionar valor da despesa.
 
-    * O campo deverá ter a label `Valor`.
+    * [ ] O campo deverá ter a label `Valor`.
 
-  * Um campo de texto para adicionar a descrição da despesa.
+  * [ ] Um campo de texto para adicionar a descrição da despesa.
 
-    * O campo deverá ter a label `Descrição`.
+    * [ ] O campo deverá ter a label `Descrição`.
 
-  * Um campo de select para adicionar em qual moeda será registrada a despesa.
+  * [ ] Um campo de select para adicionar em qual moeda será registrada a despesa.
 
-    * O campo deverá ter a label `Moeda`.
+    * [ ] O campo deverá ter a label `Moeda`.
 
-    * O campo deverá ser um `<select>`.
+    * [ ] O campo deverá ser um `<select>`.
 
-    * As opções do select serão preenchidas através da consulta à API. Isso será feito em um requisito mais a frente. Nesse momento você pode deixar o `<select>` vazio.
+    * [ ] As opções do select serão preenchidas através da consulta à API. Isso será feito em um requisito mais a frente. Nesse momento você pode deixar o `<select>` vazio.
 
-  * Um campo para adicionar qual método de pagamento será utilizado.
+  * [ ] Um campo para adicionar qual método de pagamento será utilizado.
 
-    * O campo deverá ter a label `Método de pagamento`.
+    * [ ] O campo deverá ter a label `Método de pagamento`.
 
-    * Este campo deve ser um `<select>`. A pessoa usuária deve poder escolher entre os campos: 'Dinheiro', 'Cartão de crédito' e 'Cartão de débito'.
+    * [ ] Este campo deve ser um `<select>`. A pessoa usuária deve poder escolher entre os campos: 'Dinheiro', 'Cartão de crédito' e 'Cartão de débito'.
 
-  * Um campo para selecionar uma categoria (tag) para a despesa.
+  * [ ] Um campo para selecionar uma categoria (tag) para a despesa.
 
-    * Este campo deve ser um `<select>`. A pessoa usuária deve poder escolher entre os campos: 'Alimentação', 'Lazer', 'Trabalho', 'Transporte' e 'Saúde'.
+    * [ ] Este campo deve ser um `<select>`. A pessoa usuária deve poder escolher entre os campos: 'Alimentação', 'Lazer', 'Trabalho', 'Transporte' e 'Saúde'.
 
-    * O campo deverá ter a label `Tag`.
+    * [ ] O campo deverá ter a label `Tag`.
 ---
 #### 7. Implemente a lógica para preencher as opções do campo "Moedas", buscando as siglas das moedas da API:
 
