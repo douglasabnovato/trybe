@@ -145,12 +145,10 @@ export default store;
 
 ## Documentação da API de Cotações de Moedas
 
-Sua página _web_ irá consumir os dados da API do _awesomeapi API de Cotações_ para realizar a busca de câmbio de moedas. Para realizar essas buscas, vocês precisarão consultar o seguinte _endpoint_:
+Sua página _web_ irá consumir os dados da API do _awesomeapi API de Cotações_ para realizar a busca de câmbio de moedas. Para realizar essas buscas, vocês precisarão consultar o seguinte _endpoint_: https://economia.awesomeapi.com.br/json/all
 
-- https://economia.awesomeapi.com.br/json/all
-
-O retorno desse endpoint será algo no formato:
-```
+O retorno desse **_endpoint_** será algo no formato:
+````json
 {
    {
      "USD": {
@@ -169,7 +167,7 @@ O retorno desse endpoint será algo no formato:
       ...
    }
 }
-```
+````
 
 Se você quiser aprender mais informações sobre a API, veja a [documentação](https://docs.awesomeapi.com.br/api-de-moedas).
 
