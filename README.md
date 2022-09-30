@@ -519,14 +519,13 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
 #### 10. Crie um botão para deletar uma despesa da tabela contendo as seguintes características:
 
-
    ![image](btnExcluir.gif)
 
-  * O botão deve estar na linha da tabela e deve possuir `data-testid="delete-btn"`.
+  * [ ] O botão deve estar na linha da tabela e deve possuir `data-testid="delete-btn"`.
 
-  * Ao ser clicado, o botão deleta a linha da tabela, alterando o estado global.
+  * [ ] Ao ser clicado, o botão deleta a linha da tabela, alterando o estado global.
 
-O que será testado:
+**O que será testado**
 ```
 - O botão deve estar dentro do último item da linha da tabela e deve possuir `data-testid="delete-btn"`
 - Ao ser clicado, o botão deleta a linha da tabela, alterando o estado global
