@@ -222,7 +222,7 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
   - [ ] Crie um botão com o texto ‘Entrar’.
 
-  O que será testado:
+- **O que será testado**
   ```
   - A rota para esta página deve ser "/"
   - Existe um local para que o usuário insira seu email e senha
@@ -240,11 +240,11 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
   - [ ] A senha possui 6 ou mais caracteres.
 
-  * Salve o email no estado da aplicação, com a chave ***email***, assim que a pessoa usuária logar.
+  - [ ] Salve o email no estado da aplicação, com a chave ***email***, assim que a pessoa usuária logar.
 
-  * A rota deve ser mudada para '/carteira' após o clique no botão '**Entrar**'.
+  - [ ] A rota deve ser mudada para '/carteira' após o clique no botão '**Entrar**'.
 
-  O que será testado:
+- **O que será testado**
   ```
   - O botão de "Entrar" está desabilitado ao entrar na página
   - O botão de "Entrar está desabilitado quando um email inválido é digitado
