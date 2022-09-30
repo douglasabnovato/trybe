@@ -366,13 +366,13 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 ---
 #### 7. Implemente a lógica para preencher as opções do campo "Moedas", buscando as siglas das moedas da API:
 
-  * Ao entrar na página `/carteira`, você deverá fazer uma requisição para a API das moedas e preencher as opções do `<select>` de "Moedas" com os valores retornados. Utilizando as siglas das moedas.
+  * [ ] Ao entrar na página `/carteira`, você deverá fazer uma requisição para a API das moedas e preencher as opções do `<select>` de "Moedas" com os valores retornados. Utilizando as siglas das moedas.
 
-  * As opções devem conter os valores: 'USD', 'CAD', 'EUR', 'GBP', 'ARS', 'BTC', 'LTC', 'JPY', 'CHF', 'AUD', 'CNY', 'ILS', 'ETH' e 'XRP'.
+  * [ ] As opções devem conter os valores: 'USD', 'CAD', 'EUR', 'GBP', 'ARS', 'BTC', 'LTC', 'JPY', 'CHF', 'AUD', 'CNY', 'ILS', 'ETH' e 'XRP'.
 
-    * Esses valores devem vir da API através do endpoint: https://economia.awesomeapi.com.br/json/all.
+    * [ ] Esses valores devem vir da API através do endpoint: https://economia.awesomeapi.com.br/json/all.
 
-    * Remova das informações trazidas pela API a opção 'USDT' (Dólar Turismo).
+    * [ ] Remova das informações trazidas pela API a opção 'USDT' (Dólar Turismo).
 ----
 #### 8. Desenvolva a opção de "Adicionar despesa" na sua tabela de gastos
 
