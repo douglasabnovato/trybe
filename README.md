@@ -256,15 +256,19 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
 #### 3. Utilize o Redux para salvar no estado global as informações da pessoa logada
 
-  * Salve o email no estado da aplicação, com a chave email, assim que o usuário logar.
+  - [ ] Salve o email no estado da aplicação, com a chave email, assim que o usuário logar.
 
-  * A rota deve ser mudada para `/carteira` quando o login for efetuado com sucesso.
+  - [ ] A rota deve ser mudada para `/carteira` quando o login for efetuado com sucesso.
 
-  O que será testado:
+- **O que será testado**
   ```
   - O estado global possui a chave `email` no formato esperado
   - A rota deve ser mudada para `/carteira` após o clique no botão
   ```
+
+- **Observações da minha resolução**
+  * tarefa.
+
 ---
 ### Página da Carteira
 
