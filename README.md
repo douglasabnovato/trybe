@@ -103,7 +103,7 @@ Para rodar o *linter* localmente no projeto, execute o comando abaixo:
 
 - [ ] Em função da forma como os testes automatizados foram construídos, nessa aplicação você deverá **obrigatoriamente** utilizar o seguinte formato do estado global:
 
-```
+````javascript
 {
   user: {
     email: '',
@@ -113,7 +113,7 @@ Para rodar o *linter* localmente no projeto, execute o comando abaixo:
     expenses: []
   }
 }
-```
+````
 
 Você pode adicionar novos campos ao seu estado global, mas essa estrutura básica deve se manter. Por exemplo, você pode adicionar uma propriedade `isFetching` no seu estado. Mas você **não** pode salvar as despesas em uma chave diferente de `wallet.expenses`.
 
