@@ -291,6 +291,10 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
   - A rota para esta página deve ser "/carteira"
   - O componente deve se chamar Wallet e estar localizado na pasta "src/pages"
   ```
+
+- **Observações da minha resolução**
+  * tarefa.
+
 ---
 ### Header (cabeçalho)
 
@@ -320,6 +324,10 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
   - Crie um campo com a despesa total gerada pela lista de gastos.
   - Crie um campo que mostre que qual câmbio está sendo utilizado, que será neste caso "BRL"
   ```
+
+- **Observações da minha resolução**
+  * tarefa.
+
 ---
 ### Formulário de adição de Despesa
 
@@ -363,6 +371,10 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
     * [ ] Este campo deve ser um `<select>`. A pessoa usuária deve poder escolher entre os campos: 'Alimentação', 'Lazer', 'Trabalho', 'Transporte' e 'Saúde'.
 
     * [ ] O campo deverá ter a label `Tag`.
+
+- **Observações da minha resolução**
+  * tarefa.
+
 ---
 #### 7. Implemente a lógica para preencher as opções do campo "Moedas", buscando as siglas das moedas da API:
 
@@ -373,6 +385,10 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
     * [ ] Esses valores devem vir da API através do endpoint: https://economia.awesomeapi.com.br/json/all.
 
     * [ ] Remova das informações trazidas pela API a opção 'USDT' (Dólar Turismo).
+
+- **Observações da minha resolução**
+  * tarefa.
+
 ----
 #### 8. Desenvolva a opção de "Adicionar despesa" na sua tabela de gastos
 
@@ -492,6 +508,10 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 
         </p>
       </details>
+
+- **Observações da minha resolução**
+  * tarefa.
+
 ---
 ### Tabela de Gastos
 
@@ -517,6 +537,10 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 - [ ] A tabela deve ser alimentada pelo estado da aplicação, que estará disponível na chave expenses que vem do reducer wallet.
 ```
 
+- **Observações da minha resolução**
+  * tarefa.
+
+
 #### 10. Crie um botão para deletar uma despesa da tabela contendo as seguintes características:
 
    ![image btnExcluir](./.github/template/btnExcluir.gif)
@@ -530,6 +554,10 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 - O botão deve estar dentro do último item da linha da tabela e deve possuir `data-testid="delete-btn"`
 - Ao ser clicado, o botão deleta a linha da tabela, alterando o estado global
 ```
+
+- **Observações da minha resolução**
+  * tarefa.
+
 
 ### Bônus
 
@@ -552,6 +580,10 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
   - [ ] O botão deve estar dentro do último item da linha da tabela e deve possuir `data-testid="edit-btn"
   - [ ] Ao ser clicado, o botão habilita um formulário para editar a linha da tabela. Ao clicar em "Editar despesa" ela é atualizada, alterando o estado global
   ```
+
+- **Observações da minha resolução**
+  * tarefa.
+
 ### Detalhes
 
 - Projeto tem origem no repositório [betrybe](https://github.com/betrybe/douglasnovato-test)
@@ -564,7 +596,5 @@ Crie uma página para que a pessoa usuária se identifique, com email e senha. E
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="versão 1 do projeto" title="#receita" src="./.github/telas/tela-1.jpg">
 </p>
-
-
 
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
