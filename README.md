@@ -1,9 +1,22 @@
+## Detalhes do Projeto
+
+Nesse readme teremos as especificações do projeto apresentados e as anotações registradas durante a construção e desenvolvimento do projeto.
+
+#### Inspirações
+
+- [Email Trybe - Processo Seletivo - Teste técnico](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/trybe/FMfcgzGqQJfsRlMRClHTDXlKVsVPdCXz)
+- [Cultura Trybe](https://drive.google.com/file/d/1Jo_abm2FaFpAy9PusxO0b1j40zb6EKCn/view)
+- [Conhecer Trybe](https://drive.google.com/file/d/11O82-xPPb5-Xnyn6HSZNfUKob1WUgVt-/view)
+- [impulso do Google](https://www.betrybe.com/parceria-google-vamoquevamo?utm_medium=social&utm_source=instagram&utm_campaign=link-bio)
+- [Descrição das regras do teste](https://drive.google.com/file/d/11O82-xPPb5-Xnyn6HSZNfUKob1WUgVt-/view)
+
+https://drive.google.com/file/d/1laTHQ_x5VKgaQhxd80X0nQPVRYaXbFxZ/view
+
 # Boas vindas ao processo seletivo para o Time de Instrução de Front-End!
 
 Aqui você vai encontrar os detalhes de como desenvolver seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos. Clone este repositório, abra uma branch sua e crie uma Pull Request a partir dela. O nosso **avaliador automatizado** irá rodar nela através da integração com o GitHub e será importante para a análise da sua entrega.
 
 ---
-
 
 # Sumário
 
